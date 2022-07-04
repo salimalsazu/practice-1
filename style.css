@@ -132,6 +132,41 @@ body {
     margin-top: 20%;
 }
 
-
-
 /* Service Section Style End */
+
+/* Client Section Style Start */
+.container5 {
+    width: 100%;
+    height: 600px;
+    padding-left: 30px;
+    background-color: snow;
+}
+
+.container5 h1 {
+    font-size: 50px;
+    text-align: left;
+    margin-top: 17%;
+}
+
+.container5 p {
+    max-width: 70%;
+    text-align: justify;
+}
+
+/* Client Section Style End */
+
+/* Footer Section Style Start */
+footer {
+    background-color: black;
+    height: 120px;
+    padding-top: 120px;
+
+}
+
+footer p {
+    text-align: center;
+    color: antiquewhite;
+}
+
+
+/* Footer Section Style End */
